@@ -10,8 +10,10 @@ To build this project we will use basic concept of python, Tkinter, and gTTS lib
     " pip install gTTS"
     
 # gTTS
+gTTS (Google Text-to-Speech), a Python library and CLI(command line interface) tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, or stdout.
 
+# OS module
+The OS module in python provides functions for interacting with the operating system. OS, comes under Python’s standard utility modules. This module provides a portable way of using operating system dependent functionality.
 
-
-# Application 
+# Applications
 TTS can help people who struggle with reading for various reasons(dyslexia,low literacy readers and other learning disabilities).
